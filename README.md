@@ -57,5 +57,4 @@ Le projet NetPractice est une étape cruciale dans mon parcours éducatif à l'�
 | Grade                        | Évaluation | Temps moyen  |
 |:----------------------------:|:----------:|:------------:|
 | ![ssht](git_utils/grade.png) | 3/3        | 3'25 / 15'00 |
-|                              |            |              |
 
